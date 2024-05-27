@@ -10,7 +10,7 @@ Jadi untuk menangani hal tersebut kita ingin membangun machine learning klasifik
 
 ## PROJECT ORGANIZATION
 
-Strutur dari project analisis ini yaitu:
+Strutur dari project ini yaitu:
 
     ├── README.md <- Menampilkan latar belakang dan solusi yang diambil
     ├── docs <- dokumen berisi presentasi dari dari Machine Learning dan data(seen dan unseen).
