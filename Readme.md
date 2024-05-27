@@ -12,7 +12,7 @@ Jadi untuk menangani hal tersebut kita ingin membangun machine learning klasifik
 
 Strutur dari project analisis ini yaitu:
 
-├── README.md <- Menampilkan latar belakang dan solusi yang diambil
-├── docs <- dokumen berisi presentasi dari dari Machine Learning dan data(seen dan unseen).
-├── Notebook <- berisi proses pembuatan machine learning .
-└── requirements.txt <- The requirements file untuk memproduksi analysis environment, e.g. generated with `pipreqs > requirements.txt`
+    ├── README.md <- Menampilkan latar belakang dan solusi yang diambil
+    ├── docs <- dokumen berisi presentasi dari dari Machine Learning dan data(seen dan unseen).
+    ├── Notebook <- berisi proses pembuatan machine learning .
+    └── requirements.txt <- The requirements file untuk memproduksi analysis environment, e.g. generated with `pipreqs > requirements.txt`
