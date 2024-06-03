@@ -1,0 +1,2416 @@
+2024-05-27 20:11:50,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:11:50,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:11:50,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:11:50,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:11:59,596:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,597:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,640:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,640:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,688:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,688:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,741:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,741:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,787:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,787:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,833:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:11:59,833:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:00,015:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:00,082:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:00,158:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:00,158:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:00,200:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:00,200:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:20,428:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,439:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,443:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,443:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,443:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,451:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,463:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,470:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,471:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,471:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,471:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,479:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,480:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,491:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,498:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,498:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,500:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,500:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,504:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,511:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,511:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,519:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,520:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,523:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,533:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,535:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,540:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,540:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,543:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:20,566:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:49,685:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:12:49,685:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:12:49,685:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:12:49,685:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 20:12:54,033:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,033:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,075:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,075:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,120:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,120:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,164:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,164:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,205:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,205:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,247:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,247:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,364:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:54,416:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:54,485:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,485:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,540:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:54,540:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-05-27 20:12:58,520:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,531:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,540:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,544:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,544:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,555:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,560:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,570:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,576:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,580:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,580:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,585:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,585:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,590:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,597:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,597:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,600:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,600:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,600:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,608:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,610:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,620:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,640:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,640:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,640:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,650:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,666:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,671:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:12:58,673:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:14,813:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:14,820:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:14,837:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:14,880:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:14,893:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,170:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,181:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,200:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,200:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,205:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,210:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,220:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,220:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,230:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,231:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,240:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,240:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,245:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,247:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,251:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,261:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,265:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,265:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,270:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,290:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,293:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,300:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,314:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:16,340:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,819:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,820:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,825:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,825:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,825:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,828:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,831:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,831:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,836:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,836:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,840:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,840:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,844:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,849:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,850:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,850:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,850:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,855:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,855:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,855:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,855:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,865:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,870:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,870:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,875:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,875:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,875:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,875:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,890:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:31,895:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,871:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,884:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,890:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,890:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,897:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,900:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,900:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,900:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,900:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,905:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,910:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,910:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,912:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,912:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,915:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,920:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,920:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,920:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,920:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,930:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,930:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,930:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,937:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,941:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,947:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,950:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,950:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,961:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:13:47,970:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,211:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,222:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,226:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,240:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,267:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,275:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,285:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,290:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,306:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,315:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,324:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,327:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,330:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,330:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,335:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,345:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,345:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,345:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,345:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,345:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,371:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,385:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,390:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,390:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,400:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,417:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,420:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:10,430:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:10,436:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,051:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,080:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,085:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,092:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,101:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,117:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,120:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,165:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,170:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,197:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,207:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,222:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,222:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,255:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,260:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,260:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,265:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,265:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,270:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,270:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,285:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,353:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,360:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,452:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,505:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,510:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,517:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:14:36,725:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:14:36,725:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py", line 121, in __getattr__
+    return getattr(self._final_estimator, name)
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-05-27 20:15:01,775:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,780:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,810:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,832:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,840:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,860:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,952:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,970:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:01,995:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,004:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,004:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,004:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,075:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,135:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,140:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,145:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,160:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:02,255:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,910:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,941:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,955:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,955:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:926: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2024-05-27 20:15:26,955:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,955:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,955:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:26,955:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:926: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2024-05-27 20:15:26,970:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,970:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:926: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2024-05-27 20:15:26,976:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,980:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,980:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,980:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:26,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:926: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2024-05-27 20:15:26,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:26,990:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,990:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,990:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,990:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:26,995:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:26,995:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,995:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:26,995:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,000:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,000:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,005:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:926: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2024-05-27 20:15:27,005:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,005:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,005:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,023:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,023:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,023:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,023:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,023:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,023:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,023:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:27,030:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:27,040:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,045:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,045:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,045:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,045:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,050:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:27,055:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:926: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2024-05-27 20:15:27,060:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,060:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,060:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,060:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,065:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:27,076:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,080:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,080:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,080:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,080:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:27,085:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,085:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,090:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,090:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,090:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,090:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,101:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,102:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,102:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,102:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,120:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:15:27,125:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,130:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,130:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,130:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,130:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:27,145:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,145:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,150:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,150:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,150:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,150:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:27,155:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:926: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2024-05-27 20:15:27,225:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,225:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,225:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,225:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,276:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:27,276:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: divide by zero encountered in power
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,276:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:951: RuntimeWarning: invalid value encountered in multiply
+  X2 = np.dot(Xm, R * (S ** (-0.5)))
+
+2024-05-27 20:15:27,276:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\discriminant_analysis.py:954: RuntimeWarning: divide by zero encountered in log
+  u = np.asarray([np.sum(np.log(s)) for s in self.scalings_])
+
+2024-05-27 20:15:27,281:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py:138: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 130, in _score
+    return super()._score(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_scorer.py", line 327, in _score
+    return self._sign * self._score_func(y, y_pred, **self._kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\metrics.py", line 35, in __call__
+    return self.score_func(y_true, y_pred, **kwargs)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
+
+  warnings.warn(
+
+2024-05-27 20:15:51,870:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,897:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,900:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,910:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,925:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,962:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,970:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,980:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,980:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,980:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,985:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:51,994:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,075:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,085:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,110:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,115:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,115:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,160:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,167:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:15:52,222:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,130:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,210:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,245:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,253:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,265:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,280:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,301:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,320:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,360:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,400:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,420:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,445:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,453:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,465:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,510:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,540:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,558:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,571:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,871:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:17,990:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,680:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,720:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,737:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,753:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,761:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,780:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,800:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,833:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,845:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,855:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,890:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,897:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,910:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,912:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,940:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,945:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,960:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,965:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,970:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,975:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,980:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:41,983:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:42,030:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:42,070:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:42,086:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:42,095:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:16:42,140:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,670:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,680:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,690:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,697:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,697:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,697:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,702:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,702:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,740:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,770:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,820:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,835:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,835:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,840:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,845:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,845:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,852:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,852:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,884:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:06,924:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:17:55,051:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,100:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,153:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,190:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,214:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,237:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,245:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,732:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,820:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:17:55,920:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py:310: UserWarning: Persisting input arguments took 0.75s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  X, _ = self._memory_full_transform(self, X, None, with_final=False)
+
+2024-05-27 20:17:55,953:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2024-05-27 20:18:19,611:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,543:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,560:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,644:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,670:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,728:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,754:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,760:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,810:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,818:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,819:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,820:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,875:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,887:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,926:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:22,974:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:23,275:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py:231: UserWarning: Persisting input arguments took 0.52s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  fitted_transformer = self._memory_fit(
+
+2024-05-27 20:18:23,491:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:23,710:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py:310: UserWarning: Persisting input arguments took 1.03s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  X, _ = self._memory_full_transform(self, X, None, with_final=False)
+
+2024-05-27 20:18:23,710:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:23,771:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\pycaret\internal\pipeline.py:310: UserWarning: Persisting input arguments took 0.97s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  X, _ = self._memory_full_transform(self, X, None, with_final=False)
+
+2024-05-27 20:18:23,775:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,424:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,540:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,540:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,580:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,580:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,615:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,700:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,762:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,770:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,860:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:29,992:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:30,006:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:30,110:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:30,135:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:30,190:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:30,245:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:30,603:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:30,750:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:36,154:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:36,204:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:38,740:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:41,319:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:43,890:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:46,290:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:48,824:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:51,565:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:54,100:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:56,560:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:18:58,960:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:01,374:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:03,920:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:06,325:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:08,680:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:08,750:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:11,165:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:11,240:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:13,745:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:13,810:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:16,219:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:16,300:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:18,740:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:18,810:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:21,220:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:21,295:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:23,745:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:23,815:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:26,253:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:28,760:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:28,820:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:31,221:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:31,300:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:33,850:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:36,280:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:36,373:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:38,830:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:41,310:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:43,840:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:46,365:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:46,450:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:48,865:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:48,965:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:51,504:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:51,600:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:54,067:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:54,160:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:56,694:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:59,115:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:19:59,180:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:01,720:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:04,240:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:06,720:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:06,780:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:09,160:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:09,215:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:11,752:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:11,840:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:14,200:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:14,280:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:16,800:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:16,860:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:19,305:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:19,365:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:21,730:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:21,815:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:24,420:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:27,175:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:29,625:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:32,035:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:34,450:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:36,803:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:39,184:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:41,490:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:43,830:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:46,336:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:48,735:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:48,870:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:51,310:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:51,435:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:53,788:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:53,915:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:56,410:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:56,522:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:58,839:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:20:58,975:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:01,335:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:01,450:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:03,873:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:04,005:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:06,374:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:08,835:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:08,961:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:11,270:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:21:11,410:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,037:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,135:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,215:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,336:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,350:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,355:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,370:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,406:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,407:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,463:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,520:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,525:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,530:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,560:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,570:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,627:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,722:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,895:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:30,895:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:31,110:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:51,562:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,386:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,390:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,465:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,465:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,505:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,510:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,515:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,550:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,550:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,590:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,616:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,638:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,640:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,650:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,670:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,683:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,690:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,747:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:22:55,815:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
+2024-05-27 20:23:16,960:WARNING:c:\Users\LENOVO\.pyenv\pyenv-win\versions\3.9.12\lib\site-packages\sklearn\utils\validation.py:768: UserWarning: pandas.DataFrame with sparse columns found.It will be converted to a dense numpy array.
+  warnings.warn(
+
